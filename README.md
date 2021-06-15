@@ -38,7 +38,7 @@
     kubectl apply -f .
     kubectl get pods -n logging
 
-# verify the yellow to green status
+### verify the yellow to green status
 
     screen -r efk
 
